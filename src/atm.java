@@ -45,7 +45,7 @@ public class atm {
             System.out.println("Thank you and please come again.");
         }
         else{
-            option.equalsIgnoreCase("3");
+            option.equalsIgnoreCase("2");
             System.out.println("How much money would you like to withdraw?");
 
             int withdraw = scanner.nextInt();
